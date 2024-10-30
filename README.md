@@ -6,6 +6,7 @@
 
 🔶 1) (SPIRALMATRIS 📂) = Spiral Matris: NxN boyutlarında oluşturulan bir matrisin ve bu matrisi spiral şekilde
 yazdıracak programın C# kodunu yazınız.
+
 Örnek:
 01 02 03 04 05
 
@@ -45,6 +46,7 @@ Her bir hücre aşağıdaki değerlerle temsil edilir:
 * 0: Bu düğüm zarar görmüş ve robot tarafından müdahale edilemez.
 Her robot, sadece kendi komşu düğümlerine (yukarı, aşağı, sağ, sol) müdahale edebilir.
 Robotlar aynı anda çalışacaklar ve robotlar aynı düğüme iki kez müdahale edemez.
+
 Örnek:
 Grid:
 1 1 0 1
@@ -54,6 +56,7 @@ Grid:
 1 1 1 0
 
 0 0 1 1
+
 Başlangıç Pozisyonları:
 Robot 1: (0, 0)
 Robot 2: (2, 2)
