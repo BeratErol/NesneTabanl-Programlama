@@ -1,8 +1,8 @@
-                                    🎮 HAFTANIN PROJESI = FLAPPY BIRD.
+                                🎮 HAFTANIN PROJESI = FLAPPY BIRD (_FLAPPYBIRD 📂).
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-📖 HAFTANINSORULARI:
+📖 HAFTANIN SORULARI:
 
 🔶 1) (DZILERDESIRALAMAVEKONTROL 📂) = Kullanıcıdan bir dizi tam sayı alın ve bu sayıları sıralayın. Ardından, kullanıcıdan bir
 sayı alın ve bu sayının dizide olup olmadığını ikili arama algoritması ile kontrol edin.
@@ -21,7 +21,7 @@ döndürmelidir. Kullanıcı 0 girene kadar sayıları almaya devam etsin.
 ifadenin çözüm sürecini açıklamalıdır (hangi işlemlerin hangi sırayla yapıldığını
 gösterin).
 
-🔶 5) (POLINOM 📂) =Kullanıcıdan iki polinom girmesini isteyin (örneğin, 2x^2 + 3x - 5 ve x^2 - 4).
+🔶 5) (POLINOM 📂) = Kullanıcıdan iki polinom girmesini isteyin (örneğin, 2x^2 + 3x - 5 ve x^2 - 4).
 Program, bu iki polinomu toplayıp ve çıkararak sonuçları göstermelidir. Kullanıcı,
 exit yazarak işlemi sonlandırana kadar yeni polinomlar girmeye devam etsin.
 
