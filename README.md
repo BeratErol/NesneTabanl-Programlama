@@ -8,6 +8,7 @@
 yazdıracak programın C# kodunu yazınız.
 
 Örnek:
+
 01 02 03 04 05
 
 16 17 18 19 06
@@ -48,7 +49,9 @@ Her robot, sadece kendi komşu düğümlerine (yukarı, aşağı, sağ, sol) mü
 Robotlar aynı anda çalışacaklar ve robotlar aynı düğüme iki kez müdahale edemez.
 
 Örnek:
+
 Grid:
+
 1 1 0 1
   
 0 1 0 0
@@ -88,8 +91,11 @@ Görev: Bu N x N boyutlarındaki labirentte maceracının başlangıç noktasın
 bulunduğu noktaya en kısa yolu bulması gerekiyor. En kısa yolu bulan bir fonksiyon yazın
 ve kaç adımda hazinenin bulunduğunu hesaplayın. Eğer hazineye ulaşılamıyorsa, "Yol
 Yok" sonucunu döndürün.
+
 Örnek:
+
 Labirent:
+
 1 0 0 0
 
 1 1 0 1
