@@ -1,28 +1,31 @@
-Haftanın Projesi = Flappy Bird.
+🎮 HAFTANIN PROJESI = FLAPPY BIRD.
 
-Haftanın Soruları:
-1) Kullanıcıdan bir dizi tam sayı alın ve bu sayıları sıralayın. Ardından, kullanıcıdan bir
+--------------------------------------------------------------------------------------------------------------------------------
+
+📖 HAFTANINSORULARI:
+
+🔶 1) (DZILERDESIRALAMAVEKONTROL 📂) = Kullanıcıdan bir dizi tam sayı alın ve bu sayıları sıralayın. Ardından, kullanıcıdan bir
 sayı alın ve bu sayının dizide olup olmadığını ikili arama algoritması ile kontrol edin.
-Sonucu ekrana yazdırın. (DzilerdeSiralamaVeKontrol)
+Sonucu ekrana yazdırın.
 
-2) Kullanıcıdan pozitif tam sayılar alarak, bu sayıların ortalamasını ve medyanını
+🔶 2) (DIZILERDEORTALAMAVEMEDYAN 📂) = Kullanıcıdan pozitif tam sayılar alarak, bu sayıların ortalamasını ve medyanını
 hesaplayan bir program yazın. Kullanıcı 0 girene kadar sayıları almaya devam etsin. 0
-girildiğinde ortalamayı ve medyanı gösterin. (DzilerdeOrtalamaVeMedyan)
+girildiğinde ortalamayı ve medyanı gösterin. 
 
-3) Kullanıcıdan bir dizi tamsayı alın ve bu dizideki ardışık sayı gruplarını tespit eden bir
+🔶 3) (DIZIDEKIARDISIKSAYIGRUPLARI 📂) = Kullanıcıdan bir dizi tamsayı alın ve bu dizideki ardışık sayı gruplarını tespit eden bir
 program yazın. Örneğin, 1, 2, 3, 5, 6, 7, 10 dizisi için program, 1-3 ve 5-7 gruplarını
-döndürmelidir. Kullanıcı 0 girene kadar sayıları almaya devam etsin. (DizidekiArdisikSayiGruplari)
+döndürmelidir. Kullanıcı 0 girene kadar sayıları almaya devam etsin.
 
-4) Kullanıcının girdiği matematiksel ifadeyi (örneğin, 3 + 4 * 2 / (1 - 5) ^ 2 ^ 3) işlem
+🔶 4) (ISLEMONCELIGI 📂) = Kullanıcının girdiği matematiksel ifadeyi (örneğin, 3 + 4 * 2 / (1 - 5) ^ 2 ^ 3) işlem
 önceliklerine göre çözümleyen bir program yazın. Program, sonucu yazdırmadan önce
 ifadenin çözüm sürecini açıklamalıdır (hangi işlemlerin hangi sırayla yapıldığını
-gösterin). (IslemOnceligi)
+gösterin).
 
-5) Kullanıcıdan iki polinom girmesini isteyin (örneğin, 2x^2 + 3x - 5 ve x^2 - 4).
+🔶 5) (POLINOM 📂) =Kullanıcıdan iki polinom girmesini isteyin (örneğin, 2x^2 + 3x - 5 ve x^2 - 4).
 Program, bu iki polinomu toplayıp ve çıkararak sonuçları göstermelidir. Kullanıcı,
-exit yazarak işlemi sonlandırana kadar yeni polinomlar girmeye devam etsin. (Polinom)
+exit yazarak işlemi sonlandırana kadar yeni polinomlar girmeye devam etsin.
 
-6) Bir grup bilim insanı, insanları zamanda geriye götürebilecek bir cihaz geliştirdi.
+🔷 6) (ZAMANMAKINESI 📂) = Bir grup bilim insanı, insanları zamanda geriye götürebilecek bir cihaz geliştirdi.
 Ancak bu cihazı kullanmak için doğru tarih ve saat koordinatlarını çözmek gerekiyor.
 Cihazın çalışma mantığına göre, tarihin gün, ay ve yıl bileşenleri birbiriyle
 matematiksel olarak ilişkilendirilmiş durumda. Bir zaman yolcusu, geçmişe gitmek
@@ -46,9 +49,9 @@ Bu yüzden algoritma, şu andan sonraki bir tarihe odaklanmalı.
 iv. Görev: Zaman yolcusuna yardım etmek için bir algoritma yaz. Bu algoritma,
 belirlenen tarihler aralığında cihazın kabul edeceği tüm geçerli tarihleri
 listelemelidir. Her tarih, gün, ay ve yıl formatında olmalı. Cihazın kabul ettiği
-tarihler listeye eklenmelidir. (ZamanMakinesi)
+tarihler listeye eklenmelidir.
 
-7) Bir zamanlar efsanevi bir şehir olan Zarva, sayısız hazineyi saklayan devasa bir
+🔷 7) (LABIRENTZARVA 📂) = Bir zamanlar efsanevi bir şehir olan Zarva, sayısız hazineyi saklayan devasa bir
 labirentin içinde kayboldu. Şehre ulaşabilmek için bu labirentin doğru yollarını
 çözmeniz gerekiyor. Labirent, MxN boyutlarında bir ızgaradır ve her hücrede bir
 "kapı" bulunur. Kapılar, sadece belirli matematiksel kuralları karşılayan
@@ -65,9 +68,9 @@ iii. Görev: Labirenti çözmek için bir algoritma yazmanız gerekiyor. Bu
 algoritma, belirlenen koşullara göre hangi hücrelere gidilebileceğini
 belirleyecek ve başlangıç noktasından hedef noktaya ulaşabilecek bir yol
 bulup bulamayacağını kontrol edecektir. Eğer bir yol bulabiliyorsanız, yolun
-adımlarını listeleyin. Eğer hiçbir yol yoksa, "Şehir kayboldu!" çıktısını verin. (LabirentZarva)
+adımlarını listeleyin. Eğer hiçbir yol yoksa, "Şehir kayboldu!" çıktısını verin.
 
-8) Bir casus örgütü, düşmanlarının mesajlarını çözmelerini zorlaştırmak için son derece
+🔷 8) (SIFRELEME 📂) = Bir casus örgütü, düşmanlarının mesajlarını çözmelerini zorlaştırmak için son derece
 karmaşık bir şifreleme sistemi geliştirdi. Bu şifreleme sistemi, mesajların belirli
 kurallara göre dönüştürüldüğü bir dizi adımdan oluşuyor. Göreviniz, bu sistemi
 çözerek şifrelenmiş bir mesajın orijinal haline ulaşmaktır. Sistemin çalışma şekli şu
@@ -89,9 +92,9 @@ dönüştürülür ve yeni şifreli mesaj oluşturulur.
 iv. Görev: Size şifrelenmiş bir mesaj verilecektir. Bu mesajın çözülmesi ve
 orijinal haline geri dönülmesi gerekmektedir. Ancak şifreleme işlemi sırasında
 kullanılan Fibonacci dönüşümünü ve modüler çözümlemeyi tersine
-çevirmelisiniz. Görev, bu algoritmayı çözerek mesajı orijinaline döndürmektir. (Sifreleme)
+çevirmelisiniz. Görev, bu algoritmayı çözerek mesajı orijinaline döndürmektir.
 
-9) Bir grup uzay madencisi, zengin maden yataklarına sahip bir asteroide iniş yaptı.
+🔷 9) (UZAYMADENI 📂) = Bir grup uzay madencisi, zengin maden yataklarına sahip bir asteroide iniş yaptı.
 Ancak asteroitteki madenlerin dağılımı oldukça düzensiz ve tehlikeli yollar içeriyor.
 Maden yataklarına ulaşmak için madencilerin dikkatlice bir yol planlaması gerekiyor.
 Asteroit, NxN boyutlarında bir ızgara olarak modellenmiş durumda. Her hücre bir
@@ -111,9 +114,9 @@ toplam enerji miktarını en az seviyede tutmaları gerekiyor.
 iv. Görev: Bir algoritma yazarak madencilerin (0, 0) noktasından başlayarak (N-
 1, N-1) noktasına kadar olan en az enerji harcayan yolu bulmalısınız. Enerji
 maliyeti bir 2D matriste verilecektir. Bu matrisin her hücresi, o hücrede
-harcanacak enerji miktarını göstermektedir. (UzayMadeni)
+harcanacak enerji miktarını göstermektedir.
 
-10) Gizemli bir adada, her yıl sadece bir kez açılan efsanevi bir kapı vardır. Bu kapı,
+🔷 10) (TAPINAKKAPISI 📂) = Gizemli bir adada, her yıl sadece bir kez açılan efsanevi bir kapı vardır. Bu kapı,
 adanın merkezindeki bir tapınağa götürür. Ancak tapınağa ulaşmak için, kapının
 açılacağı en uygun zamanı bulmanız gerekmektedir. Kapı, belirli bir dizilimdeki
 sayılarla kilitlenmiştir ve sadece bu dizilimi doğru çözenler kapıyı açabilir.
@@ -131,4 +134,4 @@ iii. Ancak her adımda bir sayı veya operatör eklerken belirli şartlara göre
 etmelisiniz. Örneğin:
 o Bir operatör eklediğinizde, en az bir sayıyı işlem görmüş hale getirmeniz gerekir.
 o İki operatör ardışık eklenemez.
-o Sonuç her zaman sıfırdan büyük olmalıdır. (TapinakKapisi)
+o Sonuç her zaman sıfırdan büyük olmalıdır.
