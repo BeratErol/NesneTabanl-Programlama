@@ -1,8 +1,8 @@
-🎮 HAFTANIN PROJESI = FLAPPY BIRD.
+                                          🎮 HAFTANIN PROJESI = FLAPPY BIRD.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-📖 HAFTANINSORULARI:
+                                          📖 HAFTANINSORULARI:
 
 🔶 1) (DZILERDESIRALAMAVEKONTROL 📂) = Kullanıcıdan bir dizi tam sayı alın ve bu sayıları sıralayın. Ardından, kullanıcıdan bir
 sayı alın ve bu sayının dizide olup olmadığını ikili arama algoritması ile kontrol edin.
