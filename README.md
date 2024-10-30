@@ -2,15 +2,19 @@
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-📖 HAFTANINSORULARI:
+📖 HAFTANIN SORULARI:
 
 🔶 1) (SPIRALMATRIS 📂) = Spiral Matris: NxN boyutlarında oluşturulan bir matrisin ve bu matrisi spiral şekilde
 yazdıracak programın C# kodunu yazınız.
 Örnek:
 01 02 03 04 05
+
 16 17 18 19 06
+
 15 24 25 20 07
+
 14 23 22 21 08
+
 13 12 11 10 09
 
 🔶 2) (MATRISCARPIMI 📂) = İki Matrisin Çarpımı: Kullanıcıdan alınan iki NxN matrisin çarpımını gerçekleştiren bir
@@ -44,8 +48,11 @@ Robotlar aynı anda çalışacaklar ve robotlar aynı düğüme iki kez müdahal
 Örnek:
 Grid:
 1 1 0 1
+  
 0 1 0 0
+
 1 1 1 0
+
 0 0 1 1
 Başlangıç Pozisyonları:
 Robot 1: (0, 0)
@@ -81,9 +88,13 @@ Yok" sonucunu döndürün.
 Örnek:
 Labirent:
 1 0 0 0
+
 1 1 0 1
+
 0 1 1 1
+
 0 0 0 1
+
 Çıktı:
 En Kısa Yol: 6 adım
 Açıklama:
