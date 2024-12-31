@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\bin\Debug\MarketYönetimSistemi.exe.config
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\bin\Debug\MarketYönetimSistemi.exe
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\bin\Debug\MarketYönetimSistemi.pdb
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\obj\Debug\MarketYönetimSistemi.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\obj\Debug\MarketYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\obj\Debug\MarketYönetimSistemi.exe
+C:\Users\hesap\source\repos\9.HaftaUygulamasi\MarketYönetimSistemi\obj\Debug\MarketYönetimSistemi.pdb
